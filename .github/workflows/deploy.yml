@@ -1,3 +1,4 @@
+# 기존 프론트엔드 aws 배포 워크플로우 TODO: 추후 삭제 예정
 name: SWM Frontend Deploy CI/CD
 
 on:
