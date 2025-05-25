@@ -98,7 +98,7 @@ export default function StudyItem({ data }: { data: Study }) {
     <>
       <div
         onClick={handleMoveDetail}
-        className="block cursor-pointer transition-transform hover:-translate-y-1"
+        className="block cursor-pointer transition-transform hover:-translate-y-1 test22"
       >
         <div className="flex min-h-[340px] flex-col justify-between gap-[10px] rounded-[8px] bg-[#f9f9f9] px-[24px] py-[26px]">
           <div className="flex h-full flex-col gap-4">
