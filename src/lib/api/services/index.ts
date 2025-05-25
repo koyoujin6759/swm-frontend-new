@@ -1,0 +1,1 @@
+export { StudyRoomService } from './study-room';
