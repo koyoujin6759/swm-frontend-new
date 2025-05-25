@@ -282,7 +282,7 @@ export default function StudyApplyPage() {
                                             className="opacity-0 absolute inset-0 w-full h-full cursor-pointer"
                                             />
                                     </div> 
-                                    <label htmlFor="fileInput" className='bg-link-default rounded-[8px] flex-shrink-0 w-[48px] h-[48px] flex items-center justify-center text-[14px] text-white cursor-pointer'><Image src="/icons/File-Upload.svg" alt="파일 업로드" width={24} height={24} /></label>
+                                    <label htmlFor="fileInput" className='bg-link-default rounded-[8px] flex-shrink-0 w-[48px] h-[48px] flex items-center justify-center text-[14px] text-white cursor-pointer'><Image src="/icons/File-Upload2.svg" alt="파일 업로드" width={24} height={24} /></label>
                                 </div>
                                 <div className='text-[14px] text-red-500'>최대 용량 : 15MB</div>
                             </div>
